@@ -13,7 +13,7 @@ I am Junteng Liu, a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong
 
 - **Name:** Junteng Liu
 - **Position:** First-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology
-- **Advisor:** Professor Junxian He
+- **Advisor:** Professor Junxian He (Ph.D. supervisor; previously advised me during my undergraduate studies at SJTU)
 - **Research Focus:** Natural Language Processing and Machine Learning
 - **Research Interests:** LLM Reasoning and Reinforcement Learning; Hallucination in Vision-Language Models (VLM); LLM Truthfulness and Interpretability
 
