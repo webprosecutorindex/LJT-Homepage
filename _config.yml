@@ -4,8 +4,8 @@ title: "Junteng Liu"
 title_separator: "-"
 name: &name "Junteng Liu"
 description: &description "Junteng Liu's academic portfolio"
-url: "https://webprosecutorindex.github.io/LJT-Homepage"
-baseurl: ""
+url: "https://webprosecutorindex.github.io"
+baseurl: "/LJT-Homepage"
 repository: "webprosecutorindex/LJT-Homepage"
 
 author:
